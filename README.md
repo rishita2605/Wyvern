@@ -1,2 +1,3 @@
-# Wyvern-pvthello
+# Wyvern
+A flight booking and management system
 
